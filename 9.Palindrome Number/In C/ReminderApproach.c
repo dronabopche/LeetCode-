@@ -10,7 +10,7 @@ Solution : Step1: Check for Negative or Special Cases:
            Step4: Return the Result:
                     Return true if the halves match, otherwise return false.
   
-Problem : Line 9: Char 27: runtime error: signed integer overflow: 998765432 * 10 cannot be represented in type 'int' [solution.c]
+Error : Line 9: Char 27: runtime error: signed integer overflow: 998765432 * 10 cannot be represented in type 'int' [solution.c]
 
 Code:
 
